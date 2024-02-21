@@ -1,0 +1,211 @@
+
+@media (min-width:576px){
+    .col-sm-1{width: 8.3333%;}
+    .col-sm-2{width: 16.6666%;}
+    .col-sm-3{width: 25%;}
+    .col-sm-4{width: 33.3333%;}
+    .col-sm-5{width: 41.6666%;}
+    .col-sm-6{width: 50%;}
+    .col-sm-7{width: 58.3333%;}
+    .col-sm-8{width: 66.6666%;}
+    .col-sm-9{width: 75%;}
+    .col-sm-10{width: 83.3333%;}
+    .col-sm-11{width: 91.6666%;}
+    .col-sm-12{width: 100%;}
+    .container{
+    max-width: 540px;
+    }
+    .subscribe-box input{
+        padding:20px 300px 20px 15px;
+    }
+    .subscribe-box a{
+        bottom: 4px;
+        right: 28px;
+    }
+}
+@media (min-width:768px){
+    .col-md-1{width: 8.3333%;}
+    .col-md-2{width: 16.6666%;}
+    .col-md-3{width: 25%;}
+    .col-md-4{width: 33.3333%;}
+    .col-md-5{width: 41.6666%;}
+    .col-md-6{width: 50%;}
+    .col-md-7{width: 58.3333%;}
+    .col-md-8{width: 66.6666%;}
+    .col-md-9{width: 75%;}
+    .col-md-10{width: 83.3333%;}
+    .col-md-11{width: 91.6666%;}
+    .col-md-12{width: 100%;}
+    .container{
+    max-width: 720px;
+    }
+    .about-content h2{
+        font-size: 48px;
+    }
+    .bg-content p{
+        padding:0 15px 0 17px;
+    }
+    .bg-content h3{
+        padding:0 15px 0 17px;
+    }
+    .experience-content h2{
+        font-size: 78px;
+    }
+    .review-content p{
+        width: 60%;
+    }
+    .feature-heading h2{
+        font-size: 48px;
+    }
+    .common-pricing .dash{
+        width: 25%;
+    }
+    .video h3{
+        width: 50%;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .gallery-heading h2{
+        font-size: 48px;
+    }
+    .team-heading h2{
+        font-size: 48px;
+    }
+    .offer-heading h2{
+        font-size: 48px;
+    }
+    .blog-heading h2{
+        font-size: 48px;
+    }
+    .form-box{
+        width: 270px;
+        position: absolute;
+        right: 120px;
+        top: 120px;
+    }
+    .form-input input[type=text]{
+        padding-left: 10px;
+        width: 100px;
+    }
+    .contact-text h3{
+        padding: 5px 0 15px 15px;
+    }
+    .contact-text h2{
+        padding-left: 15px;
+    }
+    .subscribe-box input{
+        padding:20px 40px 20px 15px;
+    }
+    .subscribe-box a{
+        bottom: 4px;
+        right: -11px;
+    }
+    .work-time-box{
+        padding: 10px 10px 10px 0px;
+    }
+    .work-time-box .line{
+        width: 15%;
+    }
+}
+@media (min-width:992px){
+    .col-lg-1{width: 8.3333%;}
+    .col-lg-2{width: 16.6666%;}
+    .col-lg-3{width: 25%;}
+    .col-lg-4{width: 33.3333%;}
+    .col-lg-5{width: 41.6666%;}
+    .col-lg-6{width: 50%;}
+    .col-lg-7{width: 58.3333%;}
+    .col-lg-8{width: 66.6666%;}
+    .col-lg-9{width: 75%;}
+    .col-lg-10{width: 83.3333%;}
+    .col-lg-11{width: 91.6666%;}
+    .col-lg-12{width: 100%;}
+    .container{
+    max-width: 960px;
+    }
+    .common-pricing .dash{
+        width: 45%;
+    }
+    .form-box{
+        width: 350px;
+        position: absolute;
+        right: 65px;
+        top: 120px;
+        padding: 25px 0;
+    }
+    .input-box{
+        padding: 0 30px;
+    }
+    .form-input input[type=text]{
+        padding-left: 10px;
+        width: 115px;
+    }
+    .work-time-box{
+        padding: 10px 0;
+    }
+    .subscribe-box input{
+        padding:20px 90px 20px 15px;
+    }
+    .subscribe-box a{
+        bottom: 4px;
+        right: 18px;
+    }
+    .work-time-box .line{
+        width: 45%;
+    }
+    header
+    {
+        display:block;
+    }
+}
+@media (min-width:1200px){
+    .col-xl-1{width: 8.3333%;}
+    .col-xl-2{width: 16.6666%;}
+    .col-xl-3{width: 25%;}
+    .col-xl-4{width: 33.3333%;}
+    .col-xl-5{width: 41.6666%;}
+    .col-xl-6{width: 50%;}
+    .col-xl-7{width: 58.3333%;}
+    .col-xl-8{width: 66.6666%;}
+    .col-xl-9{width: 75%;}
+    .col-xl-10{width: 83.3333%;}
+    .col-xl-11{width: 91.6666%;}
+    .col-xl-12{width: 100%;}
+    .container{
+    max-width: 1140px;
+    }
+    .form-box{
+        width: 500px;
+        position: absolute;
+        right: 90px;
+        top: 120px;
+        padding: 25px 0;
+    }
+    .input-box{
+        padding: 0 30px;
+    }
+    .form-input input[type=text]{
+        padding-left: 10px;
+        width: 100%;
+    }
+    .subscribe-box input{
+        padding:20px 150px 20px 15px;
+    }
+}
+@media (min-width:1400px){
+    .col-xxl-1{width: 8.3333%;}
+    .col-xxl-2{width: 16.6666%;}
+    .col-xxl-3{width: 25%;}
+    .col-xxl-4{width: 33.3333%;}
+    .col-xxl-5{width: 41.6666%;}
+    .col-xxl-6{width: 50%;}
+    .col-xxl-7{width: 58.3333%;}
+    .col-xxl-8{width: 66.6666%;}
+    .col-xxl-9{width: 75%;}
+    .col-xxl-10{width: 83.3333%;}
+    .col-xxl-11{width: 91.6666%;}
+    .col-xxl-12{width: 100%;}
+    .container{
+    max-width: 1320px;
+    }
+}
